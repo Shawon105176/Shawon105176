@@ -155,23 +155,6 @@
 - 🎨 Dynamic backgrounds
 - 📱 Push notifications
 
-**🔧 Tech Stack:** Flutter, OpenWeather API
-**📊 Status:** `🚀 Completed`
-
-</td>
-<td width="50%">
-
-### 📚 [Learning Management System]
-<img src="https://via.placeholder.com/400x200/28A745/FFFFFF?text=LMS+App" width="100%">
-
-**🌟 Features:**
-- 📖 Course management
-- 🎥 Video streaming
-- 📝 Quiz system
-- 👨‍🎓 Student dashboard
-
-**🔧 Tech Stack:** Flutter, Firebase, Bloc
-**📊 Status:** `⏳ Planning`
 
 </td>
 </tr>
@@ -180,25 +163,6 @@
 ## 🎯 Current Learning Journey
 
 <div align="center">
-
-### 🚀 Skills I'm Mastering
-
-</div>
-
-```mermaid
-graph LR
-    A[🎨 Advanced Animations] --> B[🏗️ Clean Architecture]
-    B --> C[🧪 Testing Strategies]
-    C --> D[⚡ Performance Optimization]
-    D --> E[📱 App Store Publishing]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-```
-
 <div align="center">
 
 | 🎯 Goal | 📊 Progress | 🏆 Status |
@@ -217,34 +181,6 @@ graph LR
 
 </div>
 
-## 🔧 Development Setup
-
-### Prerequisites
-- Flutter SDK (latest stable version)
-- Dart SDK
-- Android Studio or VS Code
-- Git
-
-### Getting Started
-1. Clone this repository
-```bash
-git clone https://github.com/Shawon105176/Shawon105176.git
-```
-
-2. Navigate to project directory
-```bash
-cd Shawon105176
-```
-
-3. Install dependencies
-```bash
-flutter pub get
-```
-
-4. Run the app
-```bash
-flutter run
-```
 
 ##  Skills & Expertise
 
@@ -284,30 +220,6 @@ GraphQL                ████░░░░░░░░ 40%
 </td>
 <td valign="top" width="33%">
 
-### 🛠️ Tools & Workflow
-```text
-Git Version Control    ████████████ 95%
-Android Studio         ███████████░ 90%
-VS Code                ████████████ 95%
-Figma/Design Tools     ██████████░░ 80%
-Testing & Debugging    █████████░░░ 70%
-CI/CD Pipelines        █████░░░░░░░ 50%
-```
-
-</td>
-</tr>
-</table>
-
-### 🚀 State Management Expertise
-<div align="center">
-
-![Provider](https://img.shields.io/badge/Provider-Expert-success?style=for-the-badge)
-![Bloc](https://img.shields.io/badge/Bloc-Advanced-blue?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-Intermediate-orange?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-Beginner-red?style=for-the-badge)
-
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -343,22 +255,6 @@ CI/CD Pipelines        █████░░░░░░░ 50%
 
 ---
 
-## 🤝 Contributing & Collaboration
-
-<div align="center">
-
-### 🌟 How to Get Involved
-
-</div>
-
-I'm always excited to collaborate with fellow developers! Here's how you can contribute:
-
-| 🎯 **Contribution Type** | 📝 **Description** | 🚀 **Get Started** |
-|--------------------------|--------------------|--------------------|
-| 🐛 **Bug Reports** | Found an issue? Let me know! | [Create Issue](https://github.com/Shawon105176/Shawon105176/issues) |
-| ✨ **Feature Requests** | Have a cool idea? Share it! | [Feature Request](https://github.com/Shawon105176/Shawon105176/issues) |
-| 💻 **Code Contributions** | Want to contribute code? | [Fork & PR](https://github.com/Shawon105176/Shawon105176/fork) |
-| 📚 **Documentation** | Help improve docs | [Contribute](https://github.com/Shawon105176/Shawon105176) |
 
 ### 🔄 Contribution Workflow
 
@@ -374,49 +270,6 @@ graph LR
     style C fill:#4ecdc4
     style F fill:#ffeaa7
 ```
-
-## 📄 License & Acknowledgments
-
-<div align="center">
-
-### 📜 License Information
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-### 🙏 Special Thanks
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="100"><br>
-<strong>Flutter Team</strong><br>
-<sub>Amazing Framework</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" width="100"><br>
-<strong>Firebase</strong><br>
-<sub>Backend Solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"><br>
-<strong>GitHub</strong><br>
-<sub>Code Hosting</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" width="100"><br>
-<strong>Open Source</strong><br>
-<sub>Community</sub>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ### 🌟 Thank You for Visiting!
 
