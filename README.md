@@ -63,12 +63,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
 
-### 💻 Most Used Languages
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -214,6 +208,12 @@ graph LR
 | 🧪 **Testing Strategies in Flutter** | ████░░░░░░ 40% | `🎯 Planned` |
 | ⚡ **Performance Optimization** | ██░░░░░░░░ 20% | `🎯 Planned` |
 | 📱 **App Store Publishing** | ░░░░░░░░░░ 0% | `⭐ Future` |
+
+</div>
+
+### 💻 Most Used Languages
+
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
