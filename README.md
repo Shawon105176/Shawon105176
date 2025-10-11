@@ -1,49 +1,180 @@
-# Shawon105176 - Flutter App Development Portfolio
+<div align="center">
 
-Welcome to my Flutter app development repository! This repository showcases my journey and projects in mobile app development using Flutter.
+# 🚀 Shawon105176 - Flutter App Development Portfolio
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Creator;UI/UX+Enthusiast;Open+Source+Contributor&center=true&width=380&height=50">
 
-I'm a passionate Flutter developer focused on creating beautiful, performant, and user-friendly mobile applications. I love exploring new technologies and implementing innovative solutions in mobile development.
+[![](https://visitcount.itsvg.in/api?id=Shawon105176&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technologies & Tools
+</div>
 
-- **Flutter** - Cross-platform mobile app development
-- **Dart** - Programming language for Flutter
-- **Firebase** - Backend services and database
-- **Git & GitHub** - Version control
-- **Android Studio / VS Code** - Development environment
-- **REST APIs** - Backend integration
-- **State Management** - Provider, Bloc, Riverpod
-- **UI/UX Design** - Material Design, Custom Widgets
+<div align="center">
+  
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
-## 📱 Featured Projects
+</div>
 
-### Project 1: [Project Name]
-- **Description**: Brief description of your app
-- **Features**: 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Tech Stack**: Flutter, Firebase, etc.
-- **Status**: In Development / Completed
+---
 
-### Project 2: [Project Name]
-- **Description**: Brief description of your app
-- **Features**: 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Tech Stack**: Flutter, Firebase, etc.
-- **Status**: In Development / Completed
+## 🌟 About Me
 
-## 🎯 Current Learning Goals
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- [ ] Advanced Flutter animations
-- [ ] Clean Architecture implementation
-- [ ] Testing strategies in Flutter
-- [ ] Performance optimization
-- [ ] Publishing apps to Play Store/App Store
+🔹 **Passionate Flutter Developer** creating beautiful cross-platform mobile applications  
+🔹 **Mobile App Enthusiast** with expertise in modern development practices  
+🔹 **Problem Solver** who loves turning ideas into reality through code  
+🔹 **Continuous Learner** always exploring new technologies and frameworks  
+🔹 **Open Source Contributor** committed to sharing knowledge with the community  
+
+<br clear="both">
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+
+### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
+
+### 💻 Development Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+### 🚀 State Management & Architecture
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9146FF?style=flat-square&logo=flutter&logoColor=white)
+
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🏆 Project Showcase
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 [E-Commerce Flutter App]
+<img src="https://via.placeholder.com/400x200/02569B/FFFFFF?text=E-Commerce+App" width="100%">
+
+**🌟 Features:**
+- 🛒 Shopping cart functionality
+- 💳 Payment gateway integration
+- 👤 User authentication
+- 📊 Admin dashboard
+
+**🔧 Tech Stack:** Flutter, Firebase, Stripe API
+**📊 Status:** `🚀 Completed`
+
+</td>
+<td width="50%">
+
+### 🎵 [Music Player App]
+<img src="https://via.placeholder.com/400x200/9146FF/FFFFFF?text=Music+Player" width="100%">
+
+**🌟 Features:**
+- 🎶 Audio streaming
+- 📱 Beautiful UI animations
+- 💾 Offline music storage
+- 🎨 Custom themes
+
+**🔧 Tech Stack:** Flutter, Provider, SQLite
+**📊 Status:** `⚡ In Development`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌤️ [Weather Forecast App]
+<img src="https://via.placeholder.com/400x200/FFB300/FFFFFF?text=Weather+App" width="100%">
+
+**🌟 Features:**
+- 🌍 Location-based weather
+- 📈 7-day forecast
+- 🎨 Dynamic backgrounds
+- 📱 Push notifications
+
+**🔧 Tech Stack:** Flutter, OpenWeather API
+**📊 Status:** `🚀 Completed`
+
+</td>
+<td width="50%">
+
+### 📚 [Learning Management System]
+<img src="https://via.placeholder.com/400x200/28A745/FFFFFF?text=LMS+App" width="100%">
+
+**🌟 Features:**
+- 📖 Course management
+- 🎥 Video streaming
+- 📝 Quiz system
+- 👨‍🎓 Student dashboard
+
+**🔧 Tech Stack:** Flutter, Firebase, Bloc
+**📊 Status:** `⏳ Planning`
+
+</td>
+</tr>
+</table>
+
+## 🎯 Current Learning Journey
+
+<div align="center">
+
+### 🚀 Skills I'm Mastering
+
+</div>
+
+```mermaid
+graph LR
+    A[🎨 Advanced Animations] --> B[🏗️ Clean Architecture]
+    B --> C[🧪 Testing Strategies]
+    C --> D[⚡ Performance Optimization]
+    D --> E[📱 App Store Publishing]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+```
+
+<div align="center">
+
+| 🎯 Goal | 📊 Progress | 🏆 Status |
+|---------|-------------|-----------|
+| 🎨 **Advanced Flutter Animations** | ████████░░ 80% | `🔥 Active` |
+| 🏗️ **Clean Architecture Implementation** | ██████░░░░ 60% | `📚 Learning` |
+| 🧪 **Testing Strategies in Flutter** | ████░░░░░░ 40% | `🎯 Planned` |
+| ⚡ **Performance Optimization** | ██░░░░░░░░ 20% | `🎯 Planned` |
+| 📱 **App Store Publishing** | ░░░░░░░░░░ 0% | `⭐ Future` |
+
+</div>
 
 ## 🔧 Development Setup
 
@@ -74,63 +205,220 @@ flutter pub get
 flutter run
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=dark)
+### 🔥 My Coding Stats
 
-## 🌟 Skills & Expertise
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
 
-### Mobile Development
-- Cross-platform app development with Flutter
-- Native Android development basics
-- Responsive UI design
-- State management patterns
-- Local data storage (SQLite, Hive)
-- API integration and networking
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&theme=tokyo-night&hide_border=true&area=true" />
 
-### Backend Integration
-- Firebase Authentication
-- Firestore Database
-- Cloud Storage
-- Push Notifications
-- RESTful API consumption
+### 💻 Most Used Languages
 
-### Tools & Workflow
-- Version control with Git
-- Agile development methodology
-- Code review and testing
-- App deployment and distribution
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shawon105176&theme=tokyonight&hide_border=true" />
 
-## 📫 Connect With Me
+</div>
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@YourTwitterHandle]
-- **Portfolio**: [Your Portfolio Website]
+### 🏆 GitHub Trophies
+<div align="center">
 
-## 🤝 Contributing
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm always open to collaboration and learning! If you have suggestions, improvements, or want to work together on a project, feel free to:
+</div>
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+## 💼 Skills & Expertise
 
-## 📄 License
+<div align="center">
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🎯 Development Proficiency
 
-## 🙏 Acknowledgments
+</div>
 
-- Flutter team for the amazing framework
-- Open source community for continuous inspiration
-- All contributors and supporters
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 📱 Mobile Development
+```text
+Flutter Development     ████████████ 95%
+Dart Programming       ████████████ 90%
+UI/UX Implementation   ██████████░░ 85%
+Cross-platform Apps   ████████████ 90%
+Responsive Design      ██████████░░ 80%
+App Architecture       █████████░░░ 75%
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🔥 Backend & APIs
+```text
+Firebase Integration   ███████████░ 90%
+REST API Consumption   ██████████░░ 85%
+Local Data Storage     ███████████░ 88%
+Authentication Systems █████████░░░ 75%
+Cloud Functions        ██████░░░░░░ 60%
+GraphQL                ████░░░░░░░░ 40%
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Tools & Workflow
+```text
+Git Version Control    ████████████ 95%
+Android Studio         ███████████░ 90%
+VS Code                ████████████ 95%
+Figma/Design Tools     ██████████░░ 80%
+Testing & Debugging    █████████░░░ 70%
+CI/CD Pipelines        █████░░░░░░░ 50%
+```
+
+</td>
+</tr>
+</table>
+
+### 🚀 State Management Expertise
+<div align="center">
+
+![Provider](https://img.shields.io/badge/Provider-Expert-success?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-Advanced-blue?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-Intermediate-orange?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-Beginner-red?style=for-the-badge)
+
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 🌐 Find Me Online
+
+<a href="mailto:nobita105176@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://discord.gg/yourserver">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+### 💬 Let's Collaborate!
+
+🤝 **Open for collaboration on:**
+- 📱 Flutter mobile applications
+- 🎨 UI/UX design projects  
+- 🔥 Firebase backend solutions
+- 📚 Open source contributions
+- 🚀 Startup mobile apps
+
+</div>
 
 ---
 
-⭐ **If you find my work interesting, please consider giving it a star!** ⭐
+## 🤝 Contributing & Collaboration
 
-*Last updated: October 2024*
+<div align="center">
+
+### 🌟 How to Get Involved
+
+</div>
+
+I'm always excited to collaborate with fellow developers! Here's how you can contribute:
+
+| 🎯 **Contribution Type** | 📝 **Description** | 🚀 **Get Started** |
+|--------------------------|--------------------|--------------------|
+| 🐛 **Bug Reports** | Found an issue? Let me know! | [Create Issue](https://github.com/Shawon105176/Shawon105176/issues) |
+| ✨ **Feature Requests** | Have a cool idea? Share it! | [Feature Request](https://github.com/Shawon105176/Shawon105176/issues) |
+| 💻 **Code Contributions** | Want to contribute code? | [Fork & PR](https://github.com/Shawon105176/Shawon105176/fork) |
+| 📚 **Documentation** | Help improve docs | [Contribute](https://github.com/Shawon105176/Shawon105176) |
+
+### 🔄 Contribution Workflow
+
+```mermaid
+graph LR
+    A[🍴 Fork Repo] --> B[🌿 Create Branch]
+    B --> C[💻 Make Changes]
+    C --> D[✅ Test Changes]
+    D --> E[📝 Commit]
+    E --> F[🚀 Push & PR]
+    
+    style A fill:#ff6b6b
+    style C fill:#4ecdc4
+    style F fill:#ffeaa7
+```
+
+## 📄 License & Acknowledgments
+
+<div align="center">
+
+### 📜 License Information
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+### 🙏 Special Thanks
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="100"><br>
+<strong>Flutter Team</strong><br>
+<sub>Amazing Framework</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" width="100"><br>
+<strong>Firebase</strong><br>
+<sub>Backend Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"><br>
+<strong>GitHub</strong><br>
+<sub>Code Hosting</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" width="100"><br>
+<strong>Open Source</strong><br>
+<sub>Community</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌟 Thank You for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+🚀&center=true&width=500&height=50&color=FFB300">
+
+**If you find my work interesting, please consider giving it a ⭐!**
+
+[![GitHub followers](https://img.shields.io/github/followers/Shawon105176?style=social)](https://github.com/Shawon105176)
+[![GitHub stars](https://img.shields.io/github/stars/Shawon105176?style=social)](https://github.com/Shawon105176)
+
+---
+
+<sub>💡 **Pro Tip:** Star ⭐ my repositories if you find them useful!</sub>
+
+*Last updated: October 2025* 🗓️
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
