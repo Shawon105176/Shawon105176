@@ -50,6 +50,17 @@
 
 </div>
 
+
+<sub>💡 **Pro Tip:** Star ⭐ my repositories if you find them useful!</sub>
+
+*Last updated: October 2025* 🗓️
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ### 🏆 GitHub Trophies
 <div align="center">
 
@@ -411,14 +422,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![GitHub followers](https://img.shields.io/github/followers/Shawon105176?style=social)](https://github.com/Shawon105176)
 [![GitHub stars](https://img.shields.io/github/stars/Shawon105176?style=social)](https://github.com/Shawon105176)
 
----
-
-<sub>💡 **Pro Tip:** Star ⭐ my repositories if you find them useful!</sub>
-
-*Last updated: October 2025* 🗓️
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
