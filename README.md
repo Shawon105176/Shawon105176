@@ -22,15 +22,64 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+</div>
 
-🔹 **Passionate Flutter Developer** creating beautiful cross-platform mobile applications  
-🔹 **Mobile App Enthusiast** with expertise in modern development practices  
-🔹 **Problem Solver** who loves turning ideas into reality through code  
-🔹 **Continuous Learner** always exploring new technologies and frameworks  
-🔹 **Open Source Contributor** committed to sharing knowledge with the community  
+<div align="left" style="margin-right: 420px;">
+
+### � Welcome to My Digital World!
+
+🚀 **Passionate Flutter Developer** who transforms innovative ideas into stunning cross-platform mobile applications
+
+� **Creative Problem Solver** with a keen eye for detail and user-centric design principles
+
+🎯 **Technology Enthusiast** constantly exploring cutting-edge frameworks, tools, and development methodologies
+
+� **Lifelong Learner** committed to mastering the latest trends in mobile development and software architecture
+
+🌐 **Open Source Advocate** actively contributing to the developer community and sharing knowledge
+
+� **Full-Stack Mobile Engineer** experienced in building end-to-end solutions from concept to deployment
+
+🎨 **UI/UX Focused** developer who believes in creating beautiful, intuitive, and performant user experiences
+
+</div>
 
 <br clear="both">
+
+---
+
+<div align="center">
+
+### 🎯 What Drives Me
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+🚀<br>
+<strong>Innovation</strong><br>
+<sub>Building tomorrow's apps today</sub>
+</td>
+<td align="center" width="25%">
+💡<br>
+<strong>Creativity</strong><br>
+<sub>Turning ideas into reality</sub>
+</td>
+<td align="center" width="25%">
+🎯<br>
+<strong>Excellence</strong><br>
+<sub>Quality in every line of code</sub>
+</td>
+<td align="center" width="25%">
+🌟<br>
+<strong>Impact</strong><br>
+<sub>Making a difference through tech</sub>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
