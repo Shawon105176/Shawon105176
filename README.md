@@ -69,13 +69,6 @@
 
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
