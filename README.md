@@ -32,7 +32,32 @@
 
 <br clear="both">
 
-## ️ Tech Stack & Tools
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 My Coding Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&theme=tokyo-night&hide_border=true&area=true" />
+
+### 💻 Most Used Languages
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shawon105176&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
