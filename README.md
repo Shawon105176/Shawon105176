@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-## 🛠️ Tech Stack & Tools
+## ️ Tech Stack & Tools
 
 <div align="center">
 
