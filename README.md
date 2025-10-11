@@ -1,82 +1,160 @@
-<!--<div align="center"><div align="center">
+<h1 align="center"><!--<div align="center"><div align="center">
 
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shawon!;Flutter+Developer!;" />
 
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+</h1>██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 
-███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
 
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║<!-- Animated Header Banner --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+<h3 align="center">A passionate Flutter developer from Bangladesh 🇧🇩</h3>██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
--->
+
+<br/>███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+
+
+
+<div align="center">██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║<!-- Animated Header Banner --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+ 
+
+ 🔭 I'm currently working on **a Flutter e-commerce app**██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+
+ 
+
+ 🌱 I'm currently learning **Flutter advanced concepts**╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+
+
+ 💬 Ask me about **Flutter, Dart, Firebase... or anything [here](https://github.com/Shawon105176/Shawon105176/issues)**-->
+
+
+
+ ⚡ Fun fact **I love to code and create beautiful UIs**<br/>
+
+
+
+ </div><div align="center">
+
+ 
+
+<div align="center"> <br/>
+
+  <a href="mailto:shawon.dev@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /><img src="https://camo.githubusercontent.com/5bbf8ca83d7d8e7be528c5de999fb5249219bb8e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" height="200" style="border-radius: 20px;">
+
+  </a>
+
+  <a href="https://linkedin.com/in/shawon" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shawon;Senior+Flutter+Developer+%7C+Mobile+App+Architect;Building+%F0%9F%92%99+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+  </a><h1>
+
+  <a href="https://twitter.com/shawon" target="_blank">
+
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Shawon;Flutter+Developer;Mobile+App+Creator;Let's+Build+Together!" /><!-- Animated Typing Text -->
+
+  </a>
+
+</div></h1>
+
+
+
+ <hr/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shawon;Senior+Flutter+Developer+%7C+Mobile+App+Architect;Building+%F0%9F%92%99+Beautiful+Cross-Platform+Apps" alt="Typing SVG" /><br/>
+
+ 
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><img src="https://komarev.com/ghpvc/?username=Shawon105176&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <br/>
 
 <div align="center">
 
-<br/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman" />
 
-<img src="https://camo.githubusercontent.com/5bbf8ca83d7d8e7be528c5de999fb5249219bb8e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" height="200" style="border-radius: 20px;">
+    <br></div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shawon;Senior+Flutter+Developer+%7C+Mobile+App+Architect;Building+%F0%9F%92%99+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,html,css,mongodb,mysql,linux" />
 
-<h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Shawon;Flutter+Developer;Mobile+App+Creator;Let's+Build+Together!" /><!-- Animated Typing Text -->
-
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shawon;Senior+Flutter+Developer+%7C+Mobile+App+Architect;Building+%F0%9F%92%99+Beautiful+Cross-Platform+Apps" alt="Typing SVG" /><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shawon105176&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div><br/><!-- Animated Badges -->
 
 
 
-</div>
+<br/>---
 
-<br/><!-- Animated Badges -->
-
----
+<hr/>
 
 <p align="center">
 
 <div align="center">
 
-<!-- Premium Badges -->  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
+  <h2>🐍 My Contributions 🐍</h2><div align="center">
 
-## 🚀 **About Me**
+  <br>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp007/salesp007/output/github-contribution-grid-snake.svg" /><!-- Premium Badges -->  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
+
+  
+
+  <br/><br/><br/>## 🚀 **About Me**
+
+</div>
 
 <p align="center">  <img src="https://img.shields.io/badge/Dart-Specialist-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" />
 
+<hr/>
+
 </div>
 
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />  <img src="https://img.shields.io/badge/Mobile-Architect-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" />
+<h2 align="center">⚡ Stats ⚡</h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />  <img src="https://img.shields.io/badge/Mobile-Architect-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" />
 
-  <img src="https://img.shields.io/badge/Dart-Specialist-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" />  <img src="https://img.shields.io/badge/Firebase-Pro-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" />
+<div align=center>
 
-- 🔭 I'm currently working on **Amazing Flutter Projects**
+  <img width=390 src="https://github-readme-streak-stats-salesp007.vercel.app/?user=Shawon105176&count_private=true&theme=react&border_radius=10" alt="streak stats"/><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-  <img src="https://img.shields.io/badge/Mobile-Architect-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" /></p>
+  <img width=390 src="https://github-readme-stats-salesp007.vercel.app/api?username=Shawon105176&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-- 🌱 I'm currently learning **Advanced Flutter & Dart**
+  <br/>  <img src="https://img.shields.io/badge/Dart-Specialist-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" />  <img src="https://img.shields.io/badge/Firebase-Pro-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" />
 
-  <img src="https://img.shields.io/badge/Firebase-Pro-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp007.vercel.app/api/top-langs/?username=Shawon105176&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-- 👯 I'm looking to collaborate on **Open Source Flutter Projects**
+</div>- 🔭 I'm currently working on **Amazing Flutter Projects**
 
-</p><!-- Trophy & Stats -->
 
-- 💬 Ask me about **Flutter, Dart, Mobile Development**
 
-<p align="center">
+<br/><br/>  <img src="https://img.shields.io/badge/Mobile-Architect-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" /></p>
 
-- 📫 How to reach me **shawon.dev@gmail.com**
+
+
+<hr/>- 🌱 I'm currently learning **Advanced Flutter & Dart**
+
+
+
+<h3 align="center">  <img src="https://img.shields.io/badge/Firebase-Pro-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" />
+
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+
+</h3>- 👯 I'm looking to collaborate on **Open Source Flutter Projects**
+
+
+
+<br/></p><!-- Trophy & Stats -->
+
+
+
+<div align="center">- 💬 Ask me about **Flutter, Dart, Mobile Development**
+
+
+
+### Show some ❤️ by starring some of the repositories!<p align="center">
+
+
+
+</div>- 📫 How to reach me **shawon.dev@gmail.com**
 
 <!-- GitHub Trophies -->  <img src="https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
