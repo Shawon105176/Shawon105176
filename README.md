@@ -50,8 +50,15 @@
 
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
 
-<sub>💡 **Pro Tip:** Star ⭐ my repositories if you find them useful!</sub>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+<sub> ⭐ My repositories if you find them useful!</sub>
 
 *Last updated: October 2025* 🗓️
 
@@ -59,13 +66,6 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ## 🛠️ Tech Stack & Tools
