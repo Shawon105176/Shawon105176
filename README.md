@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Shawon105176 - Flutter App Development Portfolio
+# 🚀 Shawon Biswas (Flutter Developer)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Creator;UI/UX+Enthusiast;Open+Source+Contributor&center=true&width=380&height=50">
 
