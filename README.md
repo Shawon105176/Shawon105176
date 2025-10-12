@@ -60,12 +60,12 @@
 
 ### 🔥 My Coding Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
 
 ### 💻 Most Used Languages
 
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
 
 ### 🏆 GitHub Trophies
 
@@ -73,7 +73,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
