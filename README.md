@@ -102,78 +102,7 @@
 
 </div>
 
-## 🎯 Featured Projects
 
-<div align="center">
-
-### 🏆 Project Showcase
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📱 [E-Commerce Flutter App]
-<img src="https://via.placeholder.com/400x200/02569B/FFFFFF?text=E-Commerce+App" width="100%">
-
-**🌟 Features:**
-- 🛒 Shopping cart functionality
-- 💳 Payment gateway integration
-- 👤 User authentication
-- 📊 Admin dashboard
-
-**🔧 Tech Stack:** Flutter, Firebase, Stripe API
-**📊 Status:** `🚀 Completed`
-
-</td>
-<td width="50%">
-
-### 🎵 [Music Player App]
-<img src="https://via.placeholder.com/400x200/9146FF/FFFFFF?text=Music+Player" width="100%">
-
-**🌟 Features:**
-- 🎶 Audio streaming
-- 📱 Beautiful UI animations
-- 💾 Offline music storage
-- 🎨 Custom themes
-
-**🔧 Tech Stack:** Flutter, Provider, SQLite
-**📊 Status:** `⚡ In Development`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ [Weather Forecast App]
-<img src="https://via.placeholder.com/400x200/FFB300/FFFFFF?text=Weather+App" width="100%">
-
-**🌟 Features:**
-- 🌍 Location-based weather
-- 📈 7-day forecast
-- 🎨 Dynamic backgrounds
-- 📱 Push notifications
-
-
-</td>
-</tr>
-</table>
-
-## 🎯 Current Learning Journey
-
-<div align="center">
-<div align="center">
-
-| 🎯 Goal | 📊 Progress | 🏆 Status |
-|---------|-------------|-----------|
-| 🎨 **Advanced Flutter Animations** | ████████░░ 80% | `🔥 Active` |
-| 🏗️ **Clean Architecture Implementation** | ██████░░░░ 60% | `📚 Learning` |
-| 🧪 **Testing Strategies in Flutter** | ████░░░░░░ 40% | `🎯 Planned` |
-| ⚡ **Performance Optimization** | ██░░░░░░░░ 20% | `🎯 Planned` |
-| 📱 **App Store Publishing** | ░░░░░░░░░░ 0% | `⭐ Future` |
-
-</div>
 
 ### 💻 Most Used Languages
 
