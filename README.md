@@ -63,8 +63,18 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight&hide_border=true" />
 
-<div align="center">
+### 💻 Most Used Languages
+
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🐍 Contribution Snake
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -104,14 +114,7 @@
 
 
 
-### 💻 Most Used Languages
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-##  Skills & Expertise
+## � Skills & Expertise
 
 <div align="center">
 
@@ -148,6 +151,30 @@ GraphQL                ████░░░░░░░░ 40%
 
 </td>
 <td valign="top" width="33%">
+
+### 🛠️ Tools & Workflow
+```text
+Git Version Control    ████████████ 95%
+Android Studio         ███████████░ 90%
+VS Code                ████████████ 95%
+Figma/Design Tools     ██████████░░ 80%
+Testing & Debugging    █████████░░░ 70%
+CI/CD Pipelines        █████░░░░░░░ 50%
+```
+
+</td>
+</tr>
+</table>
+
+### 🚀 State Management Expertise
+<div align="center">
+
+![Provider](https://img.shields.io/badge/Provider-Expert-success?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-Advanced-blue?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-Intermediate-orange?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-Beginner-red?style=for-the-badge)
+
+</div>
 
 ## 📫 Let's Connect!
 
@@ -202,10 +229,20 @@ graph LR
 
 ### 🌟 Thank You for Visiting!
 
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+🚀&center=true&width=500&height=50&color=FFB300">
 
 **If you find my work interesting, please consider giving it a ⭐!**
 
 [![GitHub followers](https://img.shields.io/github/followers/Shawon105176?style=social)](https://github.com/Shawon105176)
 [![GitHub stars](https://img.shields.io/github/stars/Shawon105176?style=social)](https://github.com/Shawon105176)
+
+---
+
+<sub>💡 **Pro Tip:** Star ⭐ my repositories if you find them useful!</sub>
+
+*Last updated: October 2025* 🗓️
+
+</div>
 
