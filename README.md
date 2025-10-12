@@ -65,7 +65,7 @@
 
 ### 💻 Most Used Languages
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=tokyonight&hide_border=true" />
 
 ### 🏆 GitHub Trophies
 
