@@ -4,7 +4,26 @@
 
 <img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+---
 
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+
+### 🔥 Contribution Highlights
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/api?user=Shawon105176&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+
+<img src="https://img.shields.io/github/commit-activity/y/Shawon105176/Shawon105176?style=for-the-badge&logo=github&label=Commits%20This%20Year&color=brightgreen" alt="Commits This Year"/>
+<img src="https://img.shields.io/badge/Streak-Building-orange?style=for-the-badge&logo=fire" alt="Coding Streak"/>
+<img src="https://img.shields.io/badge/Active_Developer-2025-blue?style=for-the-badge&logo=code" alt="Active Developer"/>
+
+### 📊 Quick Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
 
 ## 📫 Let's Connect!
 
