@@ -4,23 +4,9 @@
 
 <img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
----
-
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-
-### 🔥 Contribution Highlights
-
-**📊 This Year's Activity:**
-- ![Commits This Year](https://img.shields.io/github/commit-activity/y/Shawon105176/Shawon105176?style=flat-square&logo=github&color=brightgreen) **commits in 2025**
-- 🔥 Building my coding streak daily
-- 💻 Active developer since 2024
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/api?user=Shawon105176&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 
-</div>
+
 
 ---
 
