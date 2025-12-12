@@ -121,7 +121,8 @@ me.say_hi()
 <br/><br/>
 
 <!-- Skill Progress Bars -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="200"/>
+<!-- Use 'donut' layout instead of 'donut-vertical' to avoid unsupported layout params -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="200"/>
 
 </div>
 
@@ -133,7 +134,8 @@ me.say_hi()
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FF41" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shawon105176&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakNum=00FF41&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" height="180"/>
+<!-- Removed broken Heroku streak image because Heroku-hosted stat services no longer run reliably.
+If you want a streak image, consider hosting your own instance or replacing it with an alternative badge/device. -->
 
 </div>
 
@@ -169,12 +171,12 @@ me.say_hi()
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=1a1a2e)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=00FFFF&color=1a1a2e)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00FF&color=1a1a2e)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=1a1a2e)](https://www.linkedin.com/in/shawon105176/)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=00FFFF&color=1a1a2e)](https://www.facebook.com/Shawon105176)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00FF&color=1a1a2e)](https://www.instagram.com/aadradrit/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=FFFFFF&color=1a1a2e)](https://twitter.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFF00&color=1a1a2e)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=00FF41&color=1a1a2e)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=00FF41&color=1a1a2e)](https://shawon-psi.vercel.app/)
 
 </div>
 
