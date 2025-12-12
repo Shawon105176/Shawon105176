@@ -76,7 +76,7 @@ me.say_hi()
 <tr>
 <td align="center" width="96">
   <a href="#">
-    <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+    <img src="https://www.svgrepo.com/svg/376318/fluttersvg" alt="Flutter" width="65" height="65" />
   </a>
   <br><b>Flutter</b>
 </td>
