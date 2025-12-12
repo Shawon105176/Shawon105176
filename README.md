@@ -1,173 +1,207 @@
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shawon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast%20|%20Code%20Craftsman&descAlignY=52&descSize=18"/>
+<!-- 🔥 CYBERPUNK NEON THEME 🔥 -->
 
-<!-- Animated Introduction -->
+<!-- Glowing Header -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Space!;Building+Beautiful+Apps+One+Line+at+a+Time" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&text=SHAWON&fontSize=80&fontColor=fff&animation=fadeIn&stroke=00FFFF&strokeWidth=3" width="100%"/>
 </div>
 
-<!-- Profile Views & Followers Badge -->
+<!-- Matrix Style Intro -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shawon105176&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Shawon105176?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shawon105176?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Shawon105176?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Check%20Out-success?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%3E+SYSTEM.BOOT()...;%3E+LOADING+DEVELOPER_PROFILE...;%3E+ACCESS+GRANTED+%E2%9C%93;%3E+FLUTTER+ARCHITECT+ONLINE" alt="Matrix Typing" />
 </div>
 
 <br/>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Neon Badges Row -->
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MOOD-CREATIVE-FF00FF?style=for-the-badge&logo=undertale&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/COFFEE-99%25-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=1a1a2e" />
+</div>
 
-## 🚀 About Me
+<br/>
 
-```javascript
-const shawon = {
-    pronouns: "He" | "Him",
-    role: "Flutter Developer",
-    languages: ["Dart", "JavaScript", "Python"],
-    passion: "Building Beautiful Mobile Apps",
-    currentFocus: "Cross-Platform Development",
-    funFact: "I debug with console.log & print() 😄"
-};
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Two Column Layout -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎭 **WHO AM I?**
+
+```python
+class Shawon:
+    def __init__(self):
+        self.name = "Shawon"
+        self.role = "Flutter Alchemist 🧪"
+        self.language_spoken = ["bn_BD", "en_US"]
+        self.code = {
+            "mobile": ["Flutter", "Dart"],
+            "backend": ["Firebase", "Node.js"],
+            "database": ["MongoDB", "MySQL"],
+            "tools": ["Git", "VS Code", "Figma"]
+        }
+        self.current_mission = "Building next-gen apps"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! ☕")
+
+me = Shawon()
+me.say_hi()
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Skills Section with Neon Cards -->
+## ⚡ **POWER STACK**
+
+<div align="center">
+
+<!-- Main Skills -->
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+  </a>
+  <br><b>Flutter</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" />
+  </a>
+  <br><b>Dart</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  </a>
+  <br><b>Python</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  <br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  </a>
+  <br><b>MySQL</b>
+</td>
+</tr>
+</table>
+
+<!-- Additional Skills with Glow Effect -->
 <br/>
 
-### 🎯 What I Do
-- 📱 Crafting stunning **Flutter** applications
-- 🎨 Turning ideas into pixel-perfect UI
-- ⚡ Building fast & responsive mobile apps
-- 🔄 Creating seamless cross-platform experiences
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman,linux&perline=10&theme=dark" />
 
-<br clear="both"/>
+<br/><br/>
 
----
-
-<!-- Tech Stack Section -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=dart,python,javascript,java,c,cpp" />
-
-### 🔧 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
-
-### 🗄️ Database & Backend
-<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase" />
+<!-- Skill Progress Bars -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="200"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&ring_color=6AD3F7" alt="Shawon's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
+<!-- Stats Section with Glassmorphism Effect -->
+## 📊 **SYSTEM ANALYTICS**
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="Streak Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FF41" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shawon105176&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakNum=00FF41&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" height="180"/>
+
 </div>
 
----
+<br/>
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+<!-- Contribution 3D Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&custom_title=⚡%20Neural%20Activity%20Log&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00&area_color=00FF41&title_color=00FFFF&area=true&hide_border=true" width="95%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Trophy Case -->
+## 🏆 **ACHIEVEMENT UNLOCKED**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&custom_title=Shawon's%20Contribution%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area_color=6AD3F7&title_color=6AD3F7&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Snake Animation -->
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 **CONTRIBUTION DESTROYER**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shawon105176/Shawon105176/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shawon105176/Shawon105176/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Trophies Section -->
-## 🏆 GitHub Trophies
+<!-- Connect Section - Cyberpunk Style -->
+## 🌐 **CONNECT TO MY NETWORK**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=1a1a2e)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=00FFFF&color=1a1a2e)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00FF&color=1a1a2e)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=FFFFFF&color=1a1a2e)](https://twitter.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFF00&color=1a1a2e)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=00FF41&color=1a1a2e)](https://yourportfolio.com)
+
 </div>
 
----
+<br/>
 
-<!-- Quote Section -->
+<!-- Random Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Connect Section -->
-## 🤝 Let's Connect!
-
+<!-- Visitor Counter & Fun Metrics -->
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://fb.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=Shawon105176&style=for-the-badge&color=blueviolet&label=PROFILE+HACKERS"/>
+  
+  <br/><br/>
+  
+  <!-- Animated Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=%E2%9C%A8+THANKS+FOR+VISITING+%E2%9C%A8;%F0%9F%9A%80+LET'S+BUILD+SOMETHING+EPIC;%F0%9F%92%BB+CODE+IS+POETRY" />
+  
 </div>
 
----
+<br/>
 
-<!-- Support Section -->
+<!-- Matrix Rain Footer -->
 <div align="center">
-  <h3>💖 Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/yourprofile">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<!-- Spotify Section (Optional) -->
-<div align="center">
-  <h3>🎧 Vibing To</h3>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xqrxz6yd3sgjxhxytjfhzfgrzy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-</div>
-
----
-
-<!-- Fun Stats -->
-<div align="center">
-  <img height="120" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivworking/brunnerlivio/master/images/marquee.svg" />
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:00FF41&height=120&section=footer&animation=twinkling"/>
