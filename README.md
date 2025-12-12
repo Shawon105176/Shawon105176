@@ -120,12 +120,6 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Skill Progress Bars -->
-<!-- Use 'donut' layout instead of 'donut-vertical' to avoid unsupported layout params -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="200"/>
-
-</div>
-
 
 
 <!-- Stats Section with Glassmorphism Effect -->
