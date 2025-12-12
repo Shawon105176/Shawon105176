@@ -148,14 +148,7 @@ If you want a streak image, consider hosting your own instance or replacing it w
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Trophy Case -->
-## 🏆 **ACHIEVEMENT UNLOCKED**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shawon105176&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Snake Animation -->
 ## 🐍 **CONTRIBUTION DESTROYER**
