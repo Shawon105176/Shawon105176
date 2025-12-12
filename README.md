@@ -126,20 +126,12 @@ me.say_hi()
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <!-- Stats Section with Glassmorphism Effect -->
 ## 📊 **SYSTEM ANALYTICS**
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FF41" height="180"/>
-<!-- Removed broken Heroku streak image because Heroku-hosted stat services no longer run reliably.
-If you want a streak image, consider hosting your own instance or replacing it with an alternative badge/device. -->
 
-</div>
-
-<br/>
 
 <!-- Contribution 3D Graph -->
 <div align="center">
