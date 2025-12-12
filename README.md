@@ -154,7 +154,7 @@ me.say_hi()
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=00FFFF&color=1a1a2e)](https://www.facebook.com/Shawon105176)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00FF&color=1a1a2e)](https://www.instagram.com/aadradrit/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=FFFFFF&color=1a1a2e)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFF00&color=1a1a2e)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFF00&color=1a1a2e)](mailto:nobita105176@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=00FF41&color=1a1a2e)](https://shawon-psi.vercel.app/)
 
 </div>
