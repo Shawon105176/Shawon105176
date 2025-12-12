@@ -76,13 +76,13 @@ me.say_hi()
 <tr>
 <td align="center" width="96">
   <a href="#">
-    <img src="https://www.svgrepo.com/svg/376318/fluttersvg" alt="Flutter" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
   </a>
   <br><b>Flutter</b>
 </td>
 <td align="center" width="96">
   <a href="#">
-    <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="65" height="65" />
   </a>
   <br><b>Dart</b>
 </td>
