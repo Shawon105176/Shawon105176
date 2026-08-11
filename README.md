@@ -1,185 +1,76 @@
-
-<!-- 🔥 CYBERPUNK NEON THEME 🔥 -->
-
-<!-- Glowing Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&text=SHAWON&fontSize=80&fontColor=fff&animation=fadeIn&stroke=00FFFF&strokeWidth=3" width="100%"/>
-</div>
 
-<!-- Matrix Style Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%3E+SYSTEM.BOOT()...;%3E+LOADING+DEVELOPER_PROFILE...;%3E+ACCESS+GRANTED+%E2%9C%93;%3E+FLUTTER+ARCHITECT+ONLINE" alt="Matrix Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Shawon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+cross-platform+mobile+apps;Flutter+%26+Dart+Enthusiast;Turning+ideas+into+products" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-<!-- Neon Badges Row -->
+## About Me
+
+- 🎓 Mobile App Developer focused on building fast, reliable **Flutter** apps
+- 💻 Comfortable across the stack — mobile, backend, and databases
+- 🌱 Currently sharpening my skills in Firebase and clean architecture
+- 🗣️ Speak Bengali and English
+- 📫 Reach me at **nobita105176@gmail.com**
+
+<br/>
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/MOOD-CREATIVE-FF00FF?style=for-the-badge&logo=undertale&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/COFFEE-99%25-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=1a1a2e" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,nodejs,mongodb,mysql,git,github,figma,vscode,postman&perline=6" />
+
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Two Column Layout -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🎭 **WHO AM I?**
-
-```python
-class Shawon:
-    def __init__(self):
-        self.name = "Shawon"
-        self.role = "Flutter Alchemist 🧪"
-        self.language_spoken = ["bn_BD", "en_US"]
-        self.code = {
-            "mobile": ["Flutter", "Dart"],
-            "backend": ["Firebase", "Node.js"],
-            "database": ["MongoDB", "MySQL"],
-            "tools": ["Git", "VS Code", "Figma"]
-        }
-        self.current_mission = "Building next-gen apps"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! ☕")
-
-me = Shawon()
-me.say_hi()
-```
-
-</td>
-<td width="50%" valign="top">
+## GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shawon105176&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=6366F1&icon_color=06B6D4&text_color=333333" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon105176&layout=compact&hide_border=true&theme=default&title_color=6366F1&text_color=333333" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon105176&hide_border=true&background=FFFFFF&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" width="70%"/>
+
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Skills Section with Neon Cards -->
-## ⚡ **POWER STACK**
+## Activity
 
 <div align="center">
 
-<!-- Main Skills -->
-<table>
-<tr>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
-  </a>
-  <br><b>Flutter</b>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="65" height="65" />
-  </a>
-  <br><b>Dart</b>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  </a>
-  <br><b>Python</b>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  </a>
-  <br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  </a>
-  <br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  </a>
-  <br><b>MySQL</b>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&bg_color=FFFFFF&color=6366F1&line=06B6D4&point=333333&hide_border=true&area=true" width="100%"/>
 
-<!-- Additional Skills with Glow Effect -->
+</div>
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman,linux&perline=10&theme=dark" />
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawon105176/)
+[![Facebook](https://img.shields.io/badge/Facebook-6366F1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Shawon105176)
+[![Instagram](https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadradrit/)
+[![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobita105176@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shawon-psi.vercel.app/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shawon105176&style=flat-square&color=6366F1&label=Profile+Views"/>
 
 <br/><br/>
 
-
-
-<!-- Stats Section with Glassmorphism Effect -->
-## 📊 **SYSTEM ANALYTICS**
-
-
-
-<!-- Contribution 3D Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon105176&custom_title=⚡%20Neural%20Activity%20Log&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00&area_color=00FF41&title_color=00FFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-<!-- Snake Animation -->
-## 🐍 **CONTRIBUTION DESTROYER**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section - Cyberpunk Style -->
-## 🌐 **CONNECT TO MY NETWORK**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=1a1a2e)](https://www.linkedin.com/in/shawon105176/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=00FFFF&color=1a1a2e)](https://www.facebook.com/Shawon105176)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00FF&color=1a1a2e)](https://www.instagram.com/aadradrit/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=FFFFFF&color=1a1a2e)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFF00&color=1a1a2e)](mailto:nobita105176@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=00FF41&color=1a1a2e)](https://shawon-psi.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
-
-<br/>
-
-<!-- Random Quote removed by user request -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Visitor Counter & Fun Metrics -->
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Shawon105176&style=for-the-badge&color=blueviolet&label=PROFILE+HACKERS"/>
-  
-  <br/><br/>
-  
-  <!-- Animated Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=%E2%9C%A8+THANKS+FOR+VISITING+%E2%9C%A8;%F0%9F%9A%80+LET'S+BUILD+SOMETHING+EPIC;%F0%9F%92%BB+CODE+IS+POETRY" />
-  
-</div>
-
-<br/>
-
-<!-- Matrix Rain Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:00FF41&height=120&section=footer&animation=twinkling"/>
